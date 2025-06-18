@@ -1,0 +1,6 @@
+MONGODB_URI = "mongodb://localhost:27017"
+DATABASE = "store_db"
+PRODUCTS_COLLECTION = "products"
+BILLS_COLLECTION = "bills"
+CUSTOMERS_COLLECTION = "customers"
+PAYMENTS_COLLECTION = "payments"
